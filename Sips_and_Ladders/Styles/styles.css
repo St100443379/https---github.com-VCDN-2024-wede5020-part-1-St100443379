@@ -1,0 +1,40 @@
+.box{ 
+    background-color: blue;
+    padding: 10px;
+
+    width: 400px;
+    height: 300px ;
+
+}
+
+img{
+    width: 150px;
+     height: 150px;
+}
+
+ .text{
+    color: white;
+}
+
+nav{
+    background-color: blueviolet;
+    color: white;
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 10px; 
+    margin-right: 10px;
+    padding-top: 5px
+}
+
+nav a:hover{
+   background-color: greenyellow;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 8px 16px;
+} 
+
+a{
+    color: white;
+}
